@@ -1,0 +1,1 @@
+# This project is virtual telepresence robot built using raspberry pi and VR headset.
